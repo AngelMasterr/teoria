@@ -1,6 +1,13 @@
-function Hola_mundo() {
-    const grande = true;
-
-    return <h1>{grande ? 'hola mundo en grande' : 'hola mundo en pequeño'}</h1>;
+export function Datos_personales() {
+    const datos = {
+        nombre: 'Angel',
+        edad: 34,
+    };
+    return (
+        <div>
+            <h1>HOLA MUNDO</h1>
+            <h1>{datos.nombre}</h1>
+            <h1>{datos.edad}</h1>
+        </div>
+    );
 }
-export default Hola_mundo;
