@@ -1,0 +1,16 @@
+.card {
+	background-color: blueviolet;
+	color: aliceblue;
+	padding: 20px;
+}
+
+.imagen {
+	width: 150px;
+}
+
+.on {
+	background-color: brown;
+}
+.off {
+	background-color: blue;
+}
