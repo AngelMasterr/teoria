@@ -1,12 +1,12 @@
 .card {
-    background-color: blueviolet;
-    color: aliceblue;
-    padding: 20px;
+	background-color: blueviolet;
+	color: aliceblue;
+	padding: 20px;
 }
 
 .on {
-    background-color: brown;
+	background-color: brown;
 }
 .off {
-    background-color: blue;
+	background-color: blue;
 }
