@@ -10,6 +10,11 @@ const pokemon = [
 		nombre: 'charmander',
 		imagen: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png',
 	},
+	{
+		id: 3,
+		nombre: 'bulbasaur',
+		imagen: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png',
+	},
 ]
 
 export function Card_pokemon() {
